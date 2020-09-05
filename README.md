@@ -1,10 +1,15 @@
-<h1>Projeto Radar</h1>
+<h1 align="center">Projeto Radar</h1>
+<p align="center">
+  <a href="#descrição">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#equipe">Equipe</a>&nbsp;&nbsp;&nbsp;
+</p>
 
-## Descrição do Projeto
+## Descrição
 
 O projeto consiste em desenvolver uma plataforma para o acompanhamento da COVID-19 no DF afim de auxiliar os profissionais da saúde.
 
-## Funcionalidades do projeto
+## Funcionalidades
 
 - **Mapa**
 
@@ -18,7 +23,7 @@ O projeto consiste em desenvolver uma plataforma para o acompanhamento da COVID-
 
     Sistema para SignIn cadastro de usuários, deve ser exclusivo para o pessoal da saúde.
 
-## Membros da Equipe
+## Equipe
 
 - Design
 

@@ -1,3 +1,5 @@
+<h1>Projeto Radar</h1>
+
 ## Descrição do Projeto
 
 O projeto consiste em desenvolver uma plataforma para o acompanhamento da COVID-19 no DF afim de auxiliar os profissionais da saúde.
@@ -6,7 +8,7 @@ O projeto consiste em desenvolver uma plataforma para o acompanhamento da COVID-
 
 - **Mapa**
 
-    Um mapa para mostrar informações geográficos da COVID-19. 
+    Um mapa para mostrar informações geográficas da COVID-19. 
 
     Mapa de calor.
 
@@ -30,8 +32,3 @@ O projeto consiste em desenvolver uma plataforma para o acompanhamento da COVID-
 
     Caio - Baliza - Bismarck 
 
-## Resumo Geral
-
-[A Implementar ](https://www.notion.so/A-Implementar-168fead97cd6487189288d57622acc12)
-
-[Implementados](https://www.notion.so/Implementados-1e5565af15824fb3b41b164c8c6cfe1c)

@@ -1,3 +1,7 @@
+<h1 align="center">
+    <img style="border-radius=15px" width="200px" alt="CodInfo Logo" src="https://github.com/mecassauro/docs/blob/master/Imagens/Dino_1.png" />
+    <br> Mecassauro <br />
+</h1>
 <h1 align="center">Projeto Radar</h1>
 <p align="center">
   <a href="#descrição">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
